@@ -1,11 +1,6 @@
 # test app
 
 import streamlit as st
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import seaborn as sns
-
 
 st.set_page_config(
         page_title="Test app", page_icon=":chart_with_upwards_trend:",
